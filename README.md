@@ -1,6 +1,6 @@
-# Project Title
+# Animal Trading Cards React V
 
-One Paragraph of project description goes here
+Recode my project [Animal Trading Cards] (https://github.com/Mo-Alaa88/animal-trading-cards) by react.js
 
 ## Getting Started
 
@@ -10,47 +10,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+
+* clone the repo `https://github.com/Mo-Alaa88/Animal-Trading-Cards-React-V`
+* Install NPM
+
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step by step series of examples that tell you how to get a development  running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+* Open your terminal.
+* Clone this repo by that command line ` git clone https://github.com/Mo-Alaa88/Animal-Trading-Cards-React-V`
+* Open file by `cd Animal-Trading-Cards-React-V`
+* Install NPM by that Command line NPM `npm install`.
+* install NPM-prop-types by that Command line `npm install --save prop-types` .
 
 ## Deployment
 
@@ -58,13 +31,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* [React.Js](https://reactjs.org/) - The web framework used
 
 ## Versioning
 
@@ -72,17 +39,14 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Mohammed Alaa** 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the CC-BY-SA License - see the [LICENSE AR](https://academy.hsoub.com/freelance/general/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%B3%D9%85%D8%AD-%D9%84%D9%83-%D8%A8%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A8%D8%B4%D9%83%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-r43/) for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Udacity & google** `#googledevndscholars`
+* The Godfather **Ahmed salah & Mohamed Riad**
 
