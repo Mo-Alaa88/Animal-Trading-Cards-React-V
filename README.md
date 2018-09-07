@@ -1,6 +1,6 @@
 # Animal Trading Cards React V
 
-Recode my project [Animal Trading Cards] (https://github.com/Mo-Alaa88/animal-trading-cards) by react.js
+Recode my project [Animal Trading Cards](https://github.com/Mo-Alaa88/animal-trading-cards) by react.js
 
 ## Getting Started
 
